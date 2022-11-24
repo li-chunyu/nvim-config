@@ -79,6 +79,7 @@ return packer.startup(function(use)
 
   use "windwp/nvim-autopairs"
   use {'akinsho/bufferline.nvim', tag = "v3.*", requires = 'nvim-tree/nvim-web-devicons'}
+  use "equalsraf/neovim-gui-shim"
 
 	-- Automatically set up your configuration after cloning packer.nvim
 	-- Put this at the end after all plugins
