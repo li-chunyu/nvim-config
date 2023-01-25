@@ -14,4 +14,5 @@ else
   require "user.nvim-web-devicons"
   require "user.nvim-tree"
   require "user.bufferline"
+  require "user.leap"
 end
